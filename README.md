@@ -52,7 +52,6 @@ fastboot boot out/target/product/davinci/recovery.img
 
 ## Other Sources
 
-Precompiled Stock Kernel
+https://github.com/LasagnaTeam/android_kernel_xiaomi_davinci
 
 ## Thanks
-
