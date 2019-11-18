@@ -26,7 +26,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 PRODUCT_DEVICE := davinci
 PRODUCT_NAME := omni_davinci
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Xiaomi Redmi K20
+PRODUCT_MODEL := Xiaomi Mi 9T
 PRODUCT_MANUFACTURER := Xiaomi
 
 # HACK: Set vendor patch level
